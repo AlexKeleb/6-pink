@@ -1,6 +1,6 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Александр Келеберда].
+* Студент: [Александр Келеберда - это я].
 * Наставник: [нет наставника, все сам сделаю]
 
 ---
